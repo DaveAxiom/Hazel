@@ -1,5 +1,4 @@
 # Directories
-.vs/
 /bin/
 Hazel/vendor/**/bin/
 bin-int/
@@ -14,6 +13,7 @@ Hazel.files
 Hazel.includes
 
 # Visual Studio files
+.vs/
 *.sln
 **/**/*.vcxproj
 **/**/*.vcxproj.filters
