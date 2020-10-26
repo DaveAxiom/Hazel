@@ -17,3 +17,6 @@
 [submodule "Hazel/vendor/yaml-cpp"]
 	path = Hazel/vendor/yaml-cpp
 	url = https://github.com/thecherno/yaml-cpp
+[submodule "vendor/premake-codeblocks"]
+	path = vendor/premake-codeblocks
+	url = https://github.com/DaveAxiom/premake-codeblocks.git

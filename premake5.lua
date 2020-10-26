@@ -1,3 +1,4 @@
+require "vendor/premake-codeblocks/codeblocks"
 include "./vendor/premake/premake_customization/solution_items.lua"
 
 workspace "Hazel"

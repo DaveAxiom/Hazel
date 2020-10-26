@@ -20,3 +20,10 @@ Hazel.includes
 **.vcxproj
 **.vcxproj.filters
 **.vcxproj.user
+
+# Code::Block files
+*.cbp
+*.workspace
+*.layout
+*.depend
+*.h.gch
